@@ -1,0 +1,121 @@
+[
+  {
+  "question": "What is the scientific name of a butterfly?",
+  "answers": [
+  {"answerTxt": "Apis"}, 
+  {"answerTxt": "Coleoptera"},
+  {"answerTxt": "Formicidae"},
+  {"answerTxt": "Rhopalocera"}],
+  "correctIndex": 3
+  },
+  {
+  "question": "How hot is the surface of the sun?",
+  "answers": [
+  {"answerTxt": "1,233 K"},
+  {"answerTxt": "5,778 K"},
+  {"answerTxt": "12,130 K"},
+  {"answerTxt": "101,300 K"}
+  ],
+  "correctIndex": 1
+  },
+  {
+  "question": "Who are the actors in The Internship?",
+  "answers": [
+  {"answerTxt": "Courteney Cox, Matt LeBlanc"},
+  {"answerTxt": "Ben Stiller, Jonah Hill"},
+  {"answerTxt": "Kaley Cuoco, Jim Parsons"},
+  {"answerTxt": "Vince Vaughn, Owen Wilson"}
+  ],
+  "correctIndex": 3
+  },
+  {
+  "question": "What is the capital of Spain?",
+  "answers": [
+  {"answerTxt": "Berlin"},
+  {"answerTxt": "Buenos Aires"},
+  {"answerTxt": "Madrid"},
+  {"answerTxt": "San Juan"}
+  ],
+  "correctIndex": 2
+  },
+  {
+  "question": "What are the school colors of the University of Texas at Austin?",
+  "answers": [
+  {"answerTxt": "Black, Red"},
+  {"answerTxt": "Blue, Orange"},
+  {"answerTxt": "White, Burnt Orange"},
+  {"answerTxt": "White, Old gold, Gold"}
+  ],
+  "correctIndex": 2
+  },
+  {
+  "question": "What is 70 degrees Fahrenheit in Celsius?",
+  "answers": [
+  {"answerTxt": "18.8889"},
+  {"answerTxt": "20"},
+  {"answerTxt": "21.1111"},
+  {"answerTxt": "158"}
+  ],
+  "correctIndex": 2
+  },
+  {
+  "question": "When was Mahatma Gandhi born?",
+  "answers": [
+  {"answerTxt": "October 2, 1869"},
+  {"answerTxt": "December 15, 1872"},
+  {"answerTxt": "July 18, 1918"},
+  {"answerTxt": "January 15, 1929"}
+  ],
+  "correctIndex": 0
+  },
+  {
+  "question": "How far is the moon from Earth?",
+  "answers": [
+  {"answerTxt": "7,918 miles (12,742 km)"},
+  {"answerTxt": "86,881 miles (139,822 km)"},
+  {"answerTxt": "238,400 miles (384,400 km)"},
+  {"answerTxt": "35,980,000 miles (57,910,000 km)"}
+  ],
+  "correctIndex": 2
+  },
+  {
+  "question": "What is 65 times 52?",
+  "answers": [
+  {"answerTxt": "117"},
+  {"answerTxt": "3120"},
+  {"answerTxt": "3380"},
+  {"answerTxt": "3520"}
+  ],
+  "correctIndex": 2
+  },
+  {
+  "question": "How tall is Mount Everest?",
+  "answers": [
+  {"answerTxt": "6,683 ft (2,037 m)"},
+  {"answerTxt": "7,918 ft (2,413 m)"},
+  {"answerTxt": "19,341 ft (5,895 m)"},
+  {"answerTxt": "29,029 ft (8,847 m)"}
+  ],
+  "correctIndex": 3
+  },
+  {
+  "question": "When did The Avengers come out?",
+  "answers": [
+  {"answerTxt": "May 2, 2008"},
+  {"answerTxt": "May 4, 2012"},
+  {"answerTxt": "May 3, 2013"},
+  {"answerTxt": "April 4, 2014"}
+  ],
+  "correctIndex": 1
+  },
+  {
+  "question": "What is 48,879 in hexidecimal?",
+  "answers": [
+  {"answerTxt": "0x18C1"},
+  {"answerTxt": "0xBEEF"},
+  {"answerTxt": "0xDEAD"},
+  {"answerTxt": "0x12D591"}
+  ],
+  "correctIndex": 1
+  }
+  ]

@@ -1,0 +1,45 @@
+.title{
+  text-align: center;
+}
+
+.btn_container {
+  width: 100%;
+  display: flex-center;
+  text-align: center;
+  padding-bottom: 10%;
+}
+
+.counter {
+  width: 100%;
+  display: flex-center;
+  text-align: center;
+}
+
+.btn__container {
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  column-gap: 20px;
+}
+
+.button {
+  font-size: 20px;
+  padding: 10px 20px;
+  background-color: transparent;
+  color: rgb(16, 0, 54);
+  border: 1px solid rgb(16, 0, 54);
+  cursor: pointer;
+  transition: 0.2s ease-in-out;
+}
+
+.button:hover {
+  background-color: rgb(16, 0, 54);
+  color: rgb(255, 255, 255);
+  border: 1px solid rgb(16, 0, 54);
+}
+
+.reset:hover {
+  background-color: rgb(250, 1, 1);
+  color: rgb(255, 255, 255);
+  border: 1px solid rgb(16, 0, 54);
+}

@@ -1,0 +1,37 @@
+.App {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  font-family: sans-serif;
+}
+
+.container{
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  flex-direction: row;
+}
+
+h2{
+  padding-top: 10px;
+}
+
+.input{
+  margin-top: 20px;
+  width: 350px;
+  height: 40px;
+  font-size: 20px;
+  padding-left: 10px;
+}
+
+.user{
+
+}
+
+p {
+  text-align: center;
+  margin: 10px;
+  font-size: 18px;
+}
